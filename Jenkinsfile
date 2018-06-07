@@ -8,6 +8,6 @@ node {
 	stage ('stage3') {
 		sh 'echo "enough with the echoing lets do some cool stuff!"'
 	}
-}e
+}
 
 
